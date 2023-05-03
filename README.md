@@ -1,2 +1,3 @@
 # TestG
-playground to practice git skills. penguin approved setup
+## Playground to practice git skills. 
+### Penguin approved setup
